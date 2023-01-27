@@ -10,4 +10,4 @@ const CardList = ({ monsters }) => (
 );
   
 
-export default CardList;   
+export default CardList;     N
